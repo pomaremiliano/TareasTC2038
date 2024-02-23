@@ -1,0 +1,5 @@
+radio: 4, altura: 10, capacidad: 255  
+radio: 7.4, altura: 12.3, capacidad: 125 
+radio: 9, altura: 15, capacidad: 1025 
+radio: 0.1, altura: 10, capacidad: 10 
+
