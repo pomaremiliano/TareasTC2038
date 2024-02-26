@@ -57,6 +57,7 @@ void calculaMerge(int arr1[], int izq, int med, int der) // Junta de izquierda a
         k++;
     }
 }
+// Complejidad O(n)
 
 void mergeSort(int arr1[], int izq, int der) // Algoritmo merge Sort recursivo
 {
@@ -70,6 +71,7 @@ void mergeSort(int arr1[], int izq, int der) // Algoritmo merge Sort recursivo
         calculaMerge(arr1, izq, med, der); // Se juntan los dos arreglos
     }
 }
+// Complejidad O(n log n)
 
 int main()
 {
