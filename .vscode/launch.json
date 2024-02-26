@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/pomar/TC2038/A11_Algoritmos_ A01709338/ejercicio4",
-      "program": "c:/Users/pomar/TC2038/A11_Algoritmos_ A01709338/ejercicio4/build/Debug/outDebug",
+      "cwd": "c:/Users/pomar/TareasTC2038/TC2038/Actividad1_4",
+      "program": "c:/Users/pomar/TareasTC2038/TC2038/Actividad1_4/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
