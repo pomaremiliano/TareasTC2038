@@ -19,5 +19,5 @@
 - [ejercicio6](./ejercicio6/ejer6.cpp)
 
 # Reporte de Actividad
-- [ReportedeActividad](./ejercicio7/Reporte Actividad 1.1 A01709338.pdf)
+- [ReportedeActividad](./ejercicio7/Reporte_Actividad_1.1_A01709338.pdf)
 
