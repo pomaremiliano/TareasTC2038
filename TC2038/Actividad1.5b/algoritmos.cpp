@@ -1,8 +1,6 @@
 /*
 Actividad 1.5b
-Integrantes: 
 
-Eliuth Balderas Neri
 Jorge Emiliano Pomar Mendoza 
 
 compilar: g++ algoritmos.cpp -o algoritmosAyD
