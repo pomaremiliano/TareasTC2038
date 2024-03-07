@@ -1,7 +1,9 @@
 /*
 Actividad 1.5b
 
-Jorge Emiliano Pomar Mendoza 
+Integrantes: 
+Jorge Emiliano Pomar Mendoza
+Eliuth Balderas Neri 
 
 compilar: g++ algoritmos.cpp -o algoritmosAyD
 ejecutar: ./algoritmosAyD 
