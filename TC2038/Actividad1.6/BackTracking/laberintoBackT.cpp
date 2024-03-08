@@ -8,6 +8,9 @@ Eliuth Balderas Neri
 Este programa encuentra el camino a seguir en un laberinto de dimensiones MxN.
 Se utiliza la técnica de backtracking y el criterio de avance es derecha -> abajo -> izquierda -> arriba.
 
+compilar: g++ laberintoBackT.cpp -o laberintoBackT
+ejecutar: ./laberintoBackT
+
 */
 
 #include <iostream>
