@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/pomar/TareasTC2038/TC2038/Actividad1.6",
-      "program": "c:/Users/pomar/TareasTC2038/TC2038/Actividad1.6/build/Debug/outDebug",
+      "cwd": "c:/Users/pomar/TareasTC2038/TC2038/Actividad1.6/RamificacionYPoda",
+      "program": "c:/Users/pomar/TareasTC2038/TC2038/Actividad1.6/RamificacionYPoda/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
